@@ -10,11 +10,11 @@
 
 ## Login 
 
-- Se você já possuir um login só acessar com email e a senha cadastradas.
+- Se você já possuir um login só acessar com email e a senha cadastrados.
 
 ## Cadastro
  
-- Caso ainda não possua eum cadastro, só preencher os campos com os dados pedidos, que serão eles: nome, email, senha e a confirmação da senha.
+- Caso ainda não possua um cadastro, só preencher os campos com os dados pedidos, que serão eles: nome, email, senha e a confirmação da senha.
 
 ## Área do usuário
 
