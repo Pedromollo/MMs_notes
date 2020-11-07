@@ -20,4 +20,4 @@
 
 - Possuirá os campos de título e anotação para serem preenchidos como o usuário desejar com anotações simples de até 300 caracteres.
 
-- Após ter escrito alguma nota e querer visualiza-lá só entrar em suas notas e lá estarão todas as suas anotações feitas.
+- Após ter escrito alguma nota e querer visualiza-lá é só entrar em suas notas e lá estarão todas as suas anotações feitas.
